@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4939095565495811256
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 898419170785170217, guid: 619c1f3e4c02b814cb09ce808ffbcda8, type: 3}
+      propertyPath: m_Color.b
+      value: 0.086240634
+      objectReference: {fileID: 0}
+    - target: {fileID: 898419170785170217, guid: 619c1f3e4c02b814cb09ce808ffbcda8, type: 3}
+      propertyPath: m_Color.g
+      value: 0.086240634
+      objectReference: {fileID: 0}
+    - target: {fileID: 898419170785170217, guid: 619c1f3e4c02b814cb09ce808ffbcda8, type: 3}
+      propertyPath: m_Color.r
+      value: 0.9622642
+      objectReference: {fileID: 0}
+    - target: {fileID: 2268408884557141570, guid: 619c1f3e4c02b814cb09ce808ffbcda8, type: 3}
+      propertyPath: initialDirection.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4033710738195853770, guid: 619c1f3e4c02b814cb09ce808ffbcda8, type: 3}
+      propertyPath: m_Name
+      value: Ghost_Blinky
+      objectReference: {fileID: 0}
+    - target: {fileID: 4281901479604423375, guid: 619c1f3e4c02b814cb09ce808ffbcda8, type: 3}
+      propertyPath: initialBehavior
+      value: 
+      objectReference: {fileID: 2083423572245803765}
+    - target: {fileID: 6189005217104288057, guid: 619c1f3e4c02b814cb09ce808ffbcda8, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: d65aa956b7569874fab274083826a77f, type: 3}
+    - target: {fileID: 7097470194963933359, guid: 619c1f3e4c02b814cb09ce808ffbcda8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7097470194963933359, guid: 619c1f3e4c02b814cb09ce808ffbcda8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7097470194963933359, guid: 619c1f3e4c02b814cb09ce808ffbcda8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7097470194963933359, guid: 619c1f3e4c02b814cb09ce808ffbcda8, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7097470194963933359, guid: 619c1f3e4c02b814cb09ce808ffbcda8, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7097470194963933359, guid: 619c1f3e4c02b814cb09ce808ffbcda8, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7097470194963933359, guid: 619c1f3e4c02b814cb09ce808ffbcda8, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7097470194963933359, guid: 619c1f3e4c02b814cb09ce808ffbcda8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7097470194963933359, guid: 619c1f3e4c02b814cb09ce808ffbcda8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7097470194963933359, guid: 619c1f3e4c02b814cb09ce808ffbcda8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 619c1f3e4c02b814cb09ce808ffbcda8, type: 3}
+--- !u!114 &2083423572245803765 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6368933803061628493, guid: 619c1f3e4c02b814cb09ce808ffbcda8, type: 3}
+  m_PrefabInstance: {fileID: 4939095565495811256}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c58264e4af94374fbfc6e542d556f97, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
